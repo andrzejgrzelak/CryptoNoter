@@ -4,10 +4,11 @@
 Open Source In-Browser Javascript Web Miner For Websites / Support XMR, ETN & BCN Coins<br />
 Built for in-browser javascript mining on any Monero (XMR), Electroneum (ETN) & ByteCoin (BCN) pools. 0% Commission. Payout Towards Personal Wallet. THE ONLY In-Browser Web Miner That Supports Multi Cryptocurrency.
 * You can set up CryptoNoter wthin 10 minutes if you have basic knowledge of server set-up. If you are a newbie, you might need to take some time to set up CryptoNoter
-* CoinHive VS CryptoNoter In Terms of Malicious Coding & Virus Flags. Read here: https://github.com/cryptonoter/CryptoNoter/issues/30
 
 ## UPDATES
 <img src='https://www.cryptonoter.com/img/monero-logo.png' /><img src='https://www.cryptonoter.com/img/electroneum-logo.png' /><img src='https://www.cryptonoter.com/img/bytecoin-logo.png' />
+
+01/01/18 - Due to the popularity of this github public repository project, many users have reported that anti-virus scanners and adblockers are flagging the miner as virus and malware. I have already developed a slient miner on my private repository that bypass av scanners and adblockers. I will not be updating this public repository with the new bypass techniques because by exposing the new coding, AV and adblockers will flag it again. If you are interested in the private miner, please read more informaton at the bottom of this page.
 
 25/12/16 - Added Javascript API Documentation of CryptoNoter. Refer to https://github.com/cryptonoter/CryptoNoter/wiki/Javascript-API-Documentation-For-CryptoNoter
 
@@ -233,10 +234,12 @@ The installation, configuration and optimization works very differently for a se
 
 If you are a medium to large website looking at a custom webassembly that is unique. You may contact me at cryptonoter@gmail.com for a quotation or facebook message at https://www.facebook.com/cryptonoter
 
-## ATTENTION ON NEW PROPOSED MODEL FOR CUSTOM MINER
-Some users have feedback that they are unwilling to invest big amount in terms of setup costs. At the same time, they do not wish to use Coinhive or related services due to malware and virus notifications towards users. Instead, they've proposed a profit sharing model for my installation, configuration and optimization of a custom miner.
+## ATTENTION ON NEW PRIVATE MINER
+Many users have feedback that they do not wish to use Coinhive or related services due to malware and virus notifications towards users. Instead, they've proposed a profit sharing model for my installation, configuration and optimization of a private miner.
 
-I've decided to build a network of web miners so that we can put our hashing power together to mine more coins. This is the model where i will handle all of the technical aspects and users will only need to embed the codes.
+I have already developed a slient miner on my private repository that bypass av scanners and adblockers. At this moment, my private miner is no longer flagged by AV and adblockers. I will continue to keep the private miner updated against malware and virus flags. In addition - Even if the private miner is flagged, it will still run in background without any issues.
+
+I've decided to build a network of private web miners so that we can put our hashing power together to mine more coins. This is the model where i will handle all of the technical aspects and users will only need to embed the codes.
 
 This model is only meant for medium to high volume traffic. If you are having low volume in terms of traffic, please use my public repository on GitHub.
 
@@ -263,7 +266,7 @@ Upfront Fees + 10% Profit Sharing (OR) No Upfront Fees + 20% Profit Sharing
 3) Server cost for hosting the miner will be paid by user
 4) No access to the server or my private repository of the miner
 
-Setup will take approx an hour and you may start mining with the custom miner within minutes. Queue is based on first come first serve basis. If queues are long, you will have to wait for me.
+Setup will take approx 30 mins and you may start mining with the custom miner within minutes. Queue is based on first come first serve basis. If queues are long, you will have to wait for me. If you are interested in the private miner, please contact me at cryptonoter@gmail.com for a discussion
 
 ## Donations To Support
 * There is NO DEVELOPER FEE hardcoded into this project. Donation is as per your goodwill to support my development.
